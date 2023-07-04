@@ -1,6 +1,6 @@
-# 10up Saved Replies
+# Highfivery Saved Replies
 
-In order to help reduce the time it takes to respond to open Issues and Pull Requests, we should leverage [GitHub’s Saved Replies](https://help.github.com/en/articles/about-saved-replies) to help when we are continually responding in the same manner.  The following are various Saved Replies that the 10up team should use to respond to Issues and Pull Requests to ensure our community responses are similar and to minimize the amount of time crafting the same response to different requests.
+In order to help reduce the time it takes to respond to open Issues and Pull Requests, we should leverage [GitHub’s Saved Replies](https://help.github.com/en/articles/about-saved-replies) to help when we are continually responding in the same manner.  The following are various Saved Replies that the Highfivery team should use to respond to Issues and Pull Requests to ensure our community responses are similar and to minimize the amount of time crafting the same response to different requests.
 
 Since GitHub currently does not allow us to have a repository-wide or organization-wide list of [saved replies](https://help.github.com/articles/working-with-saved-replies/), these replies need to be maintained by individual team members.  Since the replies can be modified in the future, all responses are versioned to simplify the process of keeping the replies up to date.
 
@@ -36,7 +36,7 @@ It appears this behaves as expected.  If you still feel there is an issue, pleas
 
 ## Issue: template missing (v1)
 ```
-Thanks for filing this Issue!  Please note that we have Issue templates for [bug](https://github.com/10up/REPONAME/blob/develop/.github/ISSUE_TEMPLATE/1-bug-report.md), [enhancement](https://github.com/10up/REPONAME/blob/develop/.github/ISSUE_TEMPLATE/2-enhancement.md), and [question](https://github.com/10up/REPONAME/blob/develop/.github/ISSUE_TEMPLATE/3-help.md) requests.  I would appreciate it if you could edit your Issue and add in the missing details.
+Thanks for filing this Issue!  Please note that we have Issue templates for [bug](https://github.com/Highfivery/REPONAME/blob/develop/.github/ISSUE_TEMPLATE/1-bug-report.md), [enhancement](https://github.com/Highfivery/REPONAME/blob/develop/.github/ISSUE_TEMPLATE/2-enhancement.md), and [question](https://github.com/Highfivery/REPONAME/blob/develop/.github/ISSUE_TEMPLATE/3-help.md) requests.  I would appreciate it if you could edit your Issue and add in the missing details.
 ```
 
 ## Issue: PR please? (v1)
@@ -56,20 +56,20 @@ I'm closing this issue due to inactivity, but please let me know if you're still
 
 ## Issue or PR: send for help! (v1)
 ```
-Thanks for filing this!  Unfortunately I’m uncertain on how to proceed here, so I’m pinging (@maintainer, @10up/open-source-practice) for their input.
+Thanks for filing this!  Unfortunately I’m uncertain on how to proceed here, so I’m pinging (@maintainer, @Highfivery) for their input.
 ```
 
 ## PR: merging and more (v1)
 ```
-This looks perfect, so I'll merge it.  If you are looking for another challenge, then please take a look at our `help-wanted` list: https://github.com/10up/REPONAME/labels/help-wanted.  Thanks!
+This looks perfect, so I'll merge it.  If you are looking for another challenge, then please take a look at our `help-wanted` list: https://github.com/Highfivery/REPONAME/labels/help-wanted.  Thanks!
 ```
 
 ## PR: template missing (v1)
 ```
-Thanks for filing this PR!  Please note that we have a [PR template](https://github.com/10up/REPONAME/blob/develop/.github/PULL_REQUEST_TEMPLATE.md) that is required.  I would appreciate it if you could edit your PR and add in the missing details.
+Thanks for filing this PR!  Please note that we have a [PR template](https://github.com/Highfivery/REPONAME/blob/develop/.github/PULL_REQUEST_TEMPLATE.md) that is required.  I would appreciate it if you could edit your PR and add in the missing details.
 ```
 
 ## PR: missing related Issue (v1)
 ```
-Thanks for filing this PR!  Please note that we require an Issue for each PR so that approach and other details can be discussed in the Issue while code review can happen in the PR.  I would appreciate it if you could [open an Issue](https://github.com/10up/REPONAME/issues/new/choose) and link it to this PR for further discussion.
+Thanks for filing this PR!  Please note that we require an Issue for each PR so that approach and other details can be discussed in the Issue while code review can happen in the PR.  I would appreciate it if you could [open an Issue](https://github.com/Highfivery/REPONAME/issues/new/choose) and link it to this PR for further discussion.
 ```
